@@ -9,6 +9,6 @@
       <img src="https://profile-counter.glitch.me/PopIulian88/count.svg" />
   </p>
    
-  `Esc` + `:wq` + `Enter`
+  `Esc` + `:wq!` + `Enter`
      
 </div>
