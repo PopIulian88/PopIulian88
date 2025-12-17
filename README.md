@@ -11,7 +11,7 @@
 
 📱 Contact [Me](https://iulianpop.com/contact)
 
-<a href="https://iulianpop.com/" target="_blank" rel="noreferrer"> <img src="assets/ipop.svg" alt="ipop" width="40" height="40"/> </a>
+<!-- <a href="https://iulianpop.com/" target="_blank" rel="noreferrer"> <img src="assets/ipop.svg" alt="ipop" width="40" height="40"/> </a>
 <a href="https://www.atoss.com/en" target="_blank" rel="noreferrer"> <img src="assets/atoss.svg" alt="atoss" width="40" height="40"/> </a>
 <a href="https://devegion.com/en" target="_blank" rel="noreferrer"> <img src="assets/devegion.svg" alt="devegion" width="40" height="40"/> </a>
 <a href="https://www.cobaltsign.com/" target="_blank" rel="noreferrer"> <img src="assets/cobalt-sign.svg" alt="cobalt-sign" width="40" height="40"/> </a>
@@ -19,7 +19,7 @@
 <a href="https://www.netromsoftware.ro/" target="_blank" rel="noreferrer"> <img src="assets/netrom.svg" alt="netrom" width="40" height="40"/> </a>
 
 <a href="https://gdg.community.dev/" target="_blank" rel="noreferrer"> <img src="assets/gdsc.svg" alt="gdsc" width="40" height="40"/> </a>
-<a href="[https://iulianpop.com/](https://devegion.com/en)" target="_blank" rel="noreferrer"> <img src="assets/tcc.svg" alt="tcc" width="40" height="40"/> </a>
+<a href="[https://iulianpop.com/](https://devegion.com/en)" target="_blank" rel="noreferrer"> <img src="assets/tcc.svg" alt="tcc" width="40" height="40"/> </a> -->
 
 
 <h3 align="left">Languages and Tools</h3>
@@ -57,5 +57,18 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a>
 </p>
+
+
+<h3 align="left">Companies</h3>
+
+<a href="https://iulianpop.com/" target="_blank" rel="noreferrer"> <img src="assets/ipop.svg" alt="ipop" width="40" height="40"/> </a>
+<a href="https://www.atoss.com/en" target="_blank" rel="noreferrer"> <img src="assets/atoss.svg" alt="atoss" width="40" height="40"/> </a>
+<a href="https://devegion.com/en" target="_blank" rel="noreferrer"> <img src="assets/devegion.svg" alt="devegion" width="40" height="40"/> </a>
+<a href="https://www.cobaltsign.com/" target="_blank" rel="noreferrer"> <img src="assets/cobalt-sign.svg" alt="cobalt-sign" width="40" height="40"/> </a>
+<a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank" rel="noreferrer"> <img src="assets/intel.svg" alt="intel" width="40" height="40"/> </a>
+<a href="https://www.netromsoftware.ro/" target="_blank" rel="noreferrer"> <img src="assets/netrom.svg" alt="netrom" width="40" height="40"/> </a>
+
+<a href="https://gdg.community.dev/" target="_blank" rel="noreferrer"> <img src="assets/gdsc.svg" alt="gdsc" width="40" height="40"/> </a>
+<a href="[https://iulianpop.com/](https://devegion.com/en)" target="_blank" rel="noreferrer"> <img src="assets/tcc.svg" alt="tcc" width="40" height="40"/> </a>
 
 <!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=popiulian88&show_icons=true&locale=en" alt="popiulian88" /></p> -->
