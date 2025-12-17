@@ -5,13 +5,22 @@
 
 <h3 align="left">Contact</h3>
 
+🖥️ Personal [Website](https://iulianpop.com/)
 
+🔭 Connect on [LinkedIn](https://www.linkedin.com/in/iulian-pop-0585bb245/)
 
-🖥️ Personal Website [iulianpop.com](https://iulianpop.com/)
+📱 Contact [Me](https://iulianpop.com/contact)
 
-🔭 Connect on LinkedIn [Iulian Pop](https://www.linkedin.com/in/iulian-pop-0585bb245/)
+<a href="https://iulianpop.com/" target="_blank" rel="noreferrer"> <img src="assets/ipop.svg" alt="ipop" width="40" height="40"/> </a>
+<a href="https://www.atoss.com/en" target="_blank" rel="noreferrer"> <img src="assets/atoss.svg" alt="atoss" width="40" height="40"/> </a>
+<a href="https://devegion.com/en" target="_blank" rel="noreferrer"> <img src="assets/devegion.svg" alt="devegion" width="40" height="40"/> </a>
+<a href="https://www.cobaltsign.com/" target="_blank" rel="noreferrer"> <img src="assets/cobalt-sign.svg" alt="cobalt-sign" width="40" height="40"/> </a>
+<a href="https://www.intel.com/content/www/us/en/homepage.html" target="_blank" rel="noreferrer"> <img src="assets/intel.svg" alt="intel" width="40" height="40"/> </a>
+<a href="https://www.netromsoftware.ro/" target="_blank" rel="noreferrer"> <img src="assets/netrom.svg" alt="netrom" width="40" height="40"/> </a>
 
-📱 Contact me [IulianPop/contact](https://iulianpop.com/contact)
+<a href="https://gdg.community.dev/" target="_blank" rel="noreferrer"> <img src="assets/gdsc.svg" alt="gdsc" width="40" height="40"/> </a>
+<a href="[https://iulianpop.com/](https://devegion.com/en)" target="_blank" rel="noreferrer"> <img src="assets/tcc.svg" alt="tcc" width="40" height="40"/> </a>
+
 
 <h3 align="left">Languages and Tools</h3>
 <p align="left"> 
