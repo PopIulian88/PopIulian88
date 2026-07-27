@@ -55,15 +55,15 @@ I build production-ready applications with React Native, Flutter, and Next.js, a
 
 ---
 
-## Experience
+## Trusted by
 
 | Company | Role |
 |---|---|
 | [ATOSS Software](https://www.atoss.com/en) | Full-Stack Software Engineer |
-| [Devegion](https://devegion.com/en) | Software Engineer |
+| [Iulian Pop PFA](https://iulianpop.com/) | Independent Contractor |
 | [Cobalt Sign](https://www.cobaltsign.com/) | Junior / Mid Software Engineer |
-| [Intel](https://www.intel.com) | Software Engineer Intern |
-| [Netrom Software](https://www.netromsoftware.ro/) | Software Engineer Intern |
+| [Intel](https://www.intel.com) | DevOps Engineer Intern |
+| [Devegion](https://devegion.com/en) | Junior Mobile Engineer |
 
 ---
 <!--
